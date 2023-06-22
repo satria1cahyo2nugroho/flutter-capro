@@ -1,0 +1,558 @@
+{
+   "checksum": "d26489932fbd2877699156a55c740528",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324627057361712",
+            "date_last_used": "0",
+            "guid": "a2b3d24d-6763-4b8d-812b-8334402f2df9",
+            "id": "13",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13324627057362333",
+            "date_last_used": "0",
+            "guid": "164fe394-cb18-483f-bff9-6eb2af95ac37",
+            "id": "14",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13324627057362625",
+            "date_last_used": "0",
+            "guid": "4cd786f0-2027-4358-8261-77e0bb70116e",
+            "id": "15",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13272110257000000",
+                  "date_last_used": "0",
+                  "guid": "67d82b62-9f51-485c-b874-41f3897019ec",
+                  "id": "18",
+                  "name": "Turbo - Debrid",
+                  "type": "url",
+                  "url": "https://qpython.club/turbobit/"
+               }, {
+                  "date_added": "13272110281000000",
+                  "date_last_used": "0",
+                  "guid": "2cf8283e-84b9-402e-ad31-68b5bb863b88",
+                  "id": "19",
+                  "name": "PremiumLeech.eu - Premium Link Generator",
+                  "type": "url",
+                  "url": "https://premiumleech.eu/generate-premium-link"
+               }, {
+                  "date_added": "13272110327000000",
+                  "date_last_used": "0",
+                  "guid": "ea44887f-9249-4a32-8612-0e2bcd54311e",
+                  "id": "20",
+                  "name": "Cocoleech - Premium Link Generator",
+                  "type": "url",
+                  "url": "https://cocoleech.com/"
+               }, {
+                  "date_added": "13272913840000000",
+                  "date_last_used": "0",
+                  "guid": "c3167994-0099-4fae-a69d-025552666a67",
+                  "id": "21",
+                  "name": "Uploaded ",
+                  "type": "url",
+                  "url": "https://www.uploadedpremiumlink.net/"
+               }, {
+                  "date_added": "13274164844000000",
+                  "date_last_used": "0",
+                  "guid": "5ef79afe-af7a-42c2-b761-ef9a74e0a156",
+                  "id": "22",
+                  "name": "DANTHA Songs ",
+                  "type": "url",
+                  "url": "https://www.reverbnation.com/Dantha/songs"
+               }, {
+                  "date_added": "13272180164000000",
+                  "date_last_used": "0",
+                  "guid": "87c619d5-db8e-4762-995a-545afdbe9b22",
+                  "id": "23",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://komikcast.com/"
+               }, {
+                  "date_added": "13272348570000000",
+                  "date_last_used": "0",
+                  "guid": "f9ce0bfe-eeab-4856-8742-05cfbbb2dc17",
+                  "id": "24",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://klankomik.com/"
+               }, {
+                  "date_added": "13274971690000000",
+                  "date_last_used": "0",
+                  "guid": "6ceabcc9-9707-4ba7-987f-7ef6b3de13fa",
+                  "id": "25",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://jpopmix.com/"
+               }, {
+                  "date_added": "13274971707000000",
+                  "date_last_used": "0",
+                  "guid": "6a49697b-7864-4845-bd3f-d9ac05afef56",
+                  "id": "26",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://jpop.xyz/"
+               }, {
+                  "date_added": "13274971804000000",
+                  "date_last_used": "0",
+                  "guid": "00ea9656-e239-4275-b135-f0904311512d",
+                  "id": "27",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://jpfiles.net/"
+               }, {
+                  "date_added": "13274972343000000",
+                  "date_last_used": "0",
+                  "guid": "4fcc983e-0cda-4a58-955b-8d3368f894d3",
+                  "id": "28",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://www.yumeost.com/"
+               }, {
+                  "date_added": "13275895016000000",
+                  "date_last_used": "0",
+                  "guid": "258aeb68-f871-4409-b959-d029aab77c60",
+                  "id": "29",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://wrt.my.id/"
+               }, {
+                  "date_added": "13277040574000000",
+                  "date_last_used": "0",
+                  "guid": "ea6ada97-56bc-4b8a-a47a-e09e88acf106",
+                  "id": "30",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://sektekomik.com/"
+               }, {
+                  "date_added": "13275448263000000",
+                  "date_last_used": "0",
+                  "guid": "070fcc5a-1320-4415-be5d-c60fa27bb856",
+                  "id": "31",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://kusonime.com/shoujo-tachi-wa-kouya-wo-mezasu-bd-batch-subtitle-indonesia/"
+               }, {
+                  "date_added": "13278315254000000",
+                  "date_last_used": "0",
+                  "guid": "c73fcad2-ede2-44c5-8a99-17f7fa32d261",
+                  "id": "32",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://cg-hentai.com/"
+               }, {
+                  "date_added": "13278416675000000",
+                  "date_last_used": "0",
+                  "guid": "3f7a862c-e6f1-42e1-8fe3-5616f81727c1",
+                  "id": "33",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "http://135.181.29.38/"
+               }, {
+                  "date_added": "13278419034000000",
+                  "date_last_used": "0",
+                  "guid": "39e00ed6-4a6c-4dec-9335-35e3107a7065",
+                  "id": "34",
+                  "name": ". ",
+                  "type": "url",
+                  "url": "https://www.hmoe11.net/"
+               }, {
+                  "date_added": "13278421583000000",
+                  "date_last_used": "0",
+                  "guid": "2cda320d-d13f-450b-986c-f06ac8819e00",
+                  "id": "35",
+                  "name": "Home | DoujinStyle.com - The Home of Doujin Music and Games",
+                  "type": "url",
+                  "url": "https://doujinstyle.com/"
+               }, {
+                  "date_added": "13280080911000000",
+                  "date_last_used": "0",
+                  "guid": "b39ef3a1-f00c-4132-8d27-a63a7fd52cb9",
+                  "id": "36",
+                  "name": "Hitsugi no Chaika Season 1-2 BD Batch Subtitle Indonesia - Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/chaika-batch-subtitle-indonesia/"
+               }, {
+                  "date_added": "13280730913000000",
+                  "date_last_used": "0",
+                  "guid": "391e7d77-89e1-4dee-8ff2-1335d3af6bf7",
+                  "id": "37",
+                  "name": "[Guilty Nightmare Project] Nightmarexvampire ～復讐のインフェルノ～ The Motion パッケージ版 - jpzipblog.com",
+                  "type": "url",
+                  "url": "https://jpzipblog.com/guilty-nightmare-project-nightmarexvampire-%ef%bd%9e%e5%be%a9%e8%ae%90%e3%81%ae%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a7%e3%83%ab%e3%83%8e%ef%bd%9e-the-motion-%e3%83%91%e3%83%83%e3%82%b1%e3%83%bc/"
+               }, {
+                  "date_added": "13280863191000000",
+                  "date_last_used": "0",
+                  "guid": "9d50448c-fd14-432b-bfab-82bb34c4fe5b",
+                  "id": "38",
+                  "name": "Drivenime - Download Anime Batch Subtitle Indonesia",
+                  "type": "url",
+                  "url": "https://drivenime.com/"
+               }, {
+                  "date_added": "13281712345000000",
+                  "date_last_used": "0",
+                  "guid": "2416a3e5-eaf3-459a-bc01-1734b6a3feb9",
+                  "id": "39",
+                  "name": "lk21",
+                  "type": "url",
+                  "url": "https://149.56.24.226/"
+               }, {
+                  "date_added": "13284461734000000",
+                  "date_last_used": "0",
+                  "guid": "d7c9ee9e-954d-46a8-9d4e-0863ea1cbac1",
+                  "id": "40",
+                  "name": "Dogeza de Tanondemita BD Batch Subtitle Indonesia - Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/dogeza-tanondemita-batch-sub-indo/"
+               }, {
+                  "date_added": "13286788443000000",
+                  "date_last_used": "0",
+                  "guid": "4efa396d-73d7-421e-a107-2f127f06bb81",
+                  "id": "41",
+                  "name": "Nakitai Watashi wa Neko wo Kaburu BD Subtitle Indonesia - Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/nakineko-sub-indo/"
+               }, {
+                  "date_added": "13286788466000000",
+                  "date_last_used": "0",
+                  "guid": "4956beab-7102-4b63-b2db-035ccb00b639",
+                  "id": "42",
+                  "name": "Xian Wang de Richang Shenghuo Season 2 Batch Subtitle Indonesia - Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/xian-wang-de-richang-shenghuo-season-2-batch-subtitle-indonesia/"
+               }, {
+                  "date_added": "13287114059000000",
+                  "date_last_used": "0",
+                  "guid": "f8e1e6ae-f3d8-4c29-95fd-14d535a2cba3",
+                  "id": "43",
+                  "name": "(Game CG) [つるみく -Another-] 童貞の俺が女上司と出張に行ったら、部屋が同じだった件童貞の俺が女上司と出張童貞の俺が女上司と出張 - CG-Hentai.Com",
+                  "type": "url",
+                  "url": "https://cg-hentai.com/game-cg-%e3%81%a4%e3%82%8b%e3%81%bf%e3%81%8f-another-%e7%ab%a5%e8%b2%9e%e3%81%ae%e4%bf%ba%e3%81%8c%e5%a5%b3%e4%b8%8a%e5%8f%b8%e3%81%a8%e5%87%ba%e5%bc%b5%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%9f/"
+               }, {
+                  "date_added": "13287114235000000",
+                  "date_last_used": "0",
+                  "guid": "4f0b13d3-d1e5-4775-ae4c-2897e902510c",
+                  "id": "44",
+                  "name": "[Shijyokko] Kyoshitsuno Shojoha Saiminkanri _ [しじょっこ] 教室の処女は催眠管理 [DL版] - CG-Hentai.Com",
+                  "type": "url",
+                  "url": "https://cg-hentai.com/shijyokko-kyoshitsuno-shojoha-saiminkanri-_-%e3%81%97%e3%81%98%e3%82%87%e3%81%a3%e3%81%93-%e6%95%99%e5%ae%a4%e3%81%ae%e5%87%a6%e5%a5%b3%e3%81%af%e5%82%ac%e7%9c%a0%e7%ae%a1%e7%90%86-dl%e7%89%88/"
+               }, {
+                  "date_added": "13287490652000000",
+                  "date_last_used": "0",
+                  "guid": "ce3e4ea3-1e08-407c-88a6-e1bad5f40eb4",
+                  "id": "45",
+                  "name": "Choujin Koukousei-tachi BD Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/choyoyu-batch-sub-indo/"
+               }, {
+                  "date_added": "13293706796000000",
+                  "date_last_used": "0",
+                  "guid": "dbb050d3-bf0c-4a1a-974d-0eb946e9ea92",
+                  "id": "46",
+                  "name": "Akikan Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/akikan-batch-subtitle-indonesia-2/"
+               }, {
+                  "date_added": "13293706802000000",
+                  "date_last_used": "0",
+                  "guid": "80bb3ca6-5fe3-4166-ae4c-3c3f03aa9d44",
+                  "id": "47",
+                  "name": "Chibi Devi! Episode 1 English Subbed | Watch cartoons online, Watch anime online, English dub anime",
+                  "type": "url",
+                  "url": "https://www.wcostream.com/chibi-devi-episode-1-english-subbed"
+               }, {
+                  "date_added": "13293814120000000",
+                  "date_last_used": "0",
+                  "guid": "b8f10e2a-eb9c-42db-9de9-6b1acb72c712",
+                  "id": "48",
+                  "name": "Nanatsu no Bitoku BD Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/nanatsu-bitoku-sub-indonesia/"
+               }, {
+                  "date_added": "13295025152000000",
+                  "date_last_used": "0",
+                  "guid": "d01931a9-be1b-48bd-8b45-73a7793ed9d6",
+                  "id": "49",
+                  "name": "Shea Manga – Baca Komik Manga Bahasa Indonesia",
+                  "type": "url",
+                  "url": "http://62.171.176.78/"
+               }, {
+                  "date_added": "13295612965000000",
+                  "date_last_used": "0",
+                  "guid": "3f4481fe-99ca-4edd-bf4d-d1a99e691f47",
+                  "id": "50",
+                  "name": "Masterkomik – Baca Manga, Manhua, Manhwa Bahasa Indonesia",
+                  "type": "url",
+                  "url": "https://masterkomik.com/"
+               }, {
+                  "date_added": "13297794544000000",
+                  "date_last_used": "0",
+                  "guid": "73595935-6ccb-4d1a-a1d5-e1f90d0ac40b",
+                  "id": "51",
+                  "name": "jv",
+                  "type": "url",
+                  "url": "https://www.jpvhub.com/"
+               }, {
+                  "date_added": "13298366479000000",
+                  "date_last_used": "0",
+                  "guid": "77f42483-6b34-4a5e-aba4-18eb1898e4fa",
+                  "id": "52",
+                  "name": "Grimms Notes The Animation BD Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/grimmsnotes-subtitle-indonesia/"
+               }, {
+                  "date_added": "13306238088000000",
+                  "date_last_used": "0",
+                  "guid": "9e2793ca-7123-4329-a462-e03540ed9146",
+                  "id": "53",
+                  "name": "Iya na Kao sare nagara Opantsu Misete Moraitai BD Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/opantsu-batch-sub-indo/"
+               }, {
+                  "date_added": "13308331577000000",
+                  "date_last_used": "0",
+                  "guid": "b3269350-c949-435c-9ae7-de6175e2e9ed",
+                  "id": "54",
+                  "name": "Shoujo-tachi wa Kouya wo Mezasu Subtitle Indonesia Batch - Drivenime",
+                  "type": "url",
+                  "url": "https://drivenime.com/shoujo-tachi-wa-kouya-wo-mezasu-subtitle-indonesia-batch/"
+               }, {
+                  "date_added": "13308666179000000",
+                  "date_last_used": "0",
+                  "guid": "1110296f-5a48-4905-b7b0-0da556eb461d",
+                  "id": "55",
+                  "name": "Drop Download",
+                  "type": "url",
+                  "url": "https://drop.download/users/aluphie"
+               }, {
+                  "date_added": "13310560670000000",
+                  "date_last_used": "0",
+                  "guid": "bbff6180-6552-4658-a6c3-c725bb96f09b",
+                  "id": "56",
+                  "name": "The Novel's Extra (Remake) Bahasa Indonesia | KomikIndo",
+                  "type": "url",
+                  "url": "https://komikindo.moe/manga/the-novels-extra-remake/"
+               }, {
+                  "date_added": "13311063736000000",
+                  "date_last_used": "0",
+                  "guid": "93025bbd-6d2a-4576-aaec-8335ba61dd2c",
+                  "id": "57",
+                  "name": "Miru Tights BD Batch Subtitle Indonesia | Kusonime",
+                  "type": "url",
+                  "url": "https://kusonime.com/miru-tights-batch-subtitle-indonesia/"
+               }, {
+                  "date_added": "13315136774000000",
+                  "date_last_used": "0",
+                  "guid": "5a314512-af4d-40f8-a0b9-b092094def77",
+                  "id": "58",
+                  "name": "Download Anime Kaijin Kaihatsu-bu no Kuroitsu-san Batch Sub Indo - Meownime",
+                  "type": "url",
+                  "url": "https://m.meownime.ai/kaijin-kaihatsu-bu-no-kuroitsu-san-sub-indo"
+               }, {
+                  "date_added": "13320295256000000",
+                  "date_last_used": "0",
+                  "guid": "525f9b57-c2fd-48f4-8b0c-b7200962bc90",
+                  "id": "59",
+                  "name": "(453) Buddha vs Zero OSTs - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLe_lyaGFJBcsQNxrlBf6z3_kCTDp6I7E3"
+               }, {
+                  "date_added": "13321255345000000",
+                  "date_last_used": "0",
+                  "guid": "f7c466c2-1fe5-4caa-ba6b-b1bddbde3df7",
+                  "id": "60",
+                  "name": "Son-In-Law Above Them All - MANHWATOP",
+                  "type": "url",
+                  "url": "https://manhwatop.com/manga/soninlaw-above-them-all-series/"
+               }, {
+                  "date_added": "13321256258000000",
+                  "date_last_used": "0",
+                  "guid": "3a8b143e-d5c9-47b1-96d9-784fd65b9036",
+                  "id": "61",
+                  "name": "Read Extraordinary Son-In-Law Manga English [All Chapters] Online Free - MangaKomi",
+                  "type": "url",
+                  "url": "https://mangakomi.io/manga/extraordinary-son-in-law/"
+               } ],
+               "date_added": "13327915296368165",
+               "date_last_used": "0",
+               "date_modified": "13327915296368165",
+               "guid": "7ffebea8-2d5e-482c-8c9a-efa2a6833e73",
+               "id": "17",
+               "name": "Bookmarks bar",
+               "type": "folder"
+            } ],
+            "date_added": "13327915296368009",
+            "date_last_used": "0",
+            "date_modified": "13327915296368009",
+            "guid": "1a041260-ad57-4f91-ba82-ac4150cfbde0",
+            "id": "16",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13272112487000000",
+            "date_last_used": "0",
+            "guid": "7d7ee221-393a-49aa-9228-91c0ccc14127",
+            "id": "62",
+            "name": "LRepack",
+            "type": "url",
+            "url": "https://lrepacks.net/"
+         }, {
+            "date_added": "13272110273000000",
+            "date_last_used": "0",
+            "guid": "da73c928-bfc4-4a10-a578-60269935e604",
+            "id": "63",
+            "name": "Leechall.com - Premium Link Generator",
+            "type": "url",
+            "url": "https://leechall.com/"
+         }, {
+            "date_added": "13273173003000000",
+            "date_last_used": "0",
+            "guid": "830f2a1b-2983-47fd-975b-bb31dfa0e9a5",
+            "id": "64",
+            "name": ".   ",
+            "type": "url",
+            "url": "https://jpflac.com/"
+         }, {
+            "date_added": "13307169370000000",
+            "date_last_used": "0",
+            "guid": "47b23cc1-48f8-42e7-ac73-bb2cbfc063ed",
+            "id": "65",
+            "name": "(6) akatsuki_kazu (@kazu_station) / Twitter",
+            "type": "url",
+            "url": "https://twitter.com/kazu_station"
+         }, {
+            "date_added": "13321701678000000",
+            "date_last_used": "0",
+            "guid": "5e86d38e-8d9e-46ad-afa5-802a434f9496",
+            "id": "66",
+            "name": "Shea Komik – Tempat Baca Komik Manga Bahasa Indonesia",
+            "type": "url",
+            "url": "https://sheakomik.com/"
+         }, {
+            "date_added": "13324673331899124",
+            "date_last_used": "0",
+            "guid": "9a7238e4-13db-454f-ae89-66d81d4789e7",
+            "id": "67",
+            "name": "Download Japan Music (MP3/FLAC/HI-RES/AAC) - Hikarinoakariost",
+            "type": "url",
+            "url": "https://hikarinoakari.com/"
+         }, {
+            "date_added": "13325233564008941",
+            "date_last_used": "0",
+            "guid": "81b73cc5-5356-4ee1-a885-b8f10b67bded",
+            "id": "68",
+            "name": "Adobe Premiere Pro 2021 Full Version 64 Bit - YASIR252",
+            "type": "url",
+            "url": "https://www.yasir252.com/software/download-adobe-premiere-pro-2021-full-review/"
+         }, {
+            "date_added": "13325502063097658",
+            "date_last_used": "0",
+            "guid": "5cfc88c8-30de-482a-8168-68ae9f039405",
+            "id": "69",
+            "name": "GitHub - heartexlabs/labelImg: LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
+            "type": "url",
+            "url": "https://github.com/heartexlabs/labelImg"
+         }, {
+            "date_added": "13325591755956194",
+            "date_last_used": "0",
+            "guid": "ac0664bb-dad9-430c-8728-baf27768f238",
+            "id": "70",
+            "name": "WongKinYiu/yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "type": "url",
+            "url": "https://github.com/WongKinYiu/yolov7"
+         }, {
+            "date_added": "13327423283346079",
+            "date_last_used": "0",
+            "guid": "ddebd711-dd60-4ff2-9f20-87fdef138497",
+            "id": "71",
+            "name": "Phone number OTP Authentication | Flutter firebase - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ftFNV6k0xBY"
+         }, {
+            "date_added": "13327664333157256",
+            "date_last_used": "0",
+            "guid": "c03124b8-0a03-435f-a5f7-016f572763c1",
+            "id": "72",
+            "name": "GitHub - proglabs/flutter_firebase_auth",
+            "type": "url",
+            "url": "https://github.com/proglabs/flutter_firebase_auth"
+         }, {
+            "date_added": "13327664339176140",
+            "date_last_used": "0",
+            "guid": "73771526-ff9b-4243-81eb-01194abd45c5",
+            "id": "73",
+            "name": "Flutter - Firebase Mobile phone Authentication| Firebase otp | Tutorial - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=WiitMUTSj1U"
+         }, {
+            "date_added": "13330770331011327",
+            "date_last_used": "0",
+            "guid": "aebb3245-0c24-4035-8314-640fe6377cb4",
+            "id": "74",
+            "name": "dart - How take a picture automatic after 3 seconds in Flutter? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/62112957/how-take-a-picture-automatic-after-3-seconds-in-flutter"
+         }, {
+            "date_added": "13331468894600642",
+            "date_last_used": "0",
+            "guid": "03c06f7c-d399-43a1-b8e7-7c8832f8c04f",
+            "id": "8",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13331468894600535",
+            "date_last_used": "0",
+            "guid": "1332c952-0769-41a7-be28-254639545c04",
+            "id": "7",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13331468894599371",
+            "date_last_used": "0",
+            "guid": "5468ec23-2f26-4ed0-b757-ae4c3f7422ae",
+            "id": "6",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13331468894438351",
+         "date_last_used": "0",
+         "date_modified": "13331472083985128",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331468894438355",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331468894438357",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
