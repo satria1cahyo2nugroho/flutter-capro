@@ -1,5 +1,5 @@
 {
-   "checksum": "d26489932fbd2877699156a55c740528",
+   "checksum": "223b131198f41ad019afadefc922d7e1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -501,6 +501,30 @@
             "type": "url",
             "url": "https://stackoverflow.com/questions/62112957/how-take-a-picture-automatic-after-3-seconds-in-flutter"
          }, {
+            "date_added": "13332066335679200",
+            "date_last_used": "0",
+            "guid": "f99687d9-0792-4700-aaa1-b54e6e8eb2d1",
+            "id": "78",
+            "name": "Lenovo Support",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13332066335679054",
+            "date_last_used": "0",
+            "guid": "8fd4c353-e05d-434b-aba8-df0cf68ecc48",
+            "id": "77",
+            "name": "Lenovo",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13332066335678639",
+            "date_last_used": "0",
+            "guid": "ac80a6cd-ef3d-4f6e-be07-94fe958d59e9",
+            "id": "76",
+            "name": "McAfee",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         }, {
             "date_added": "13331468894600642",
             "date_last_used": "0",
             "guid": "03c06f7c-d399-43a1-b8e7-7c8832f8c04f",
@@ -527,7 +551,7 @@
          } ],
          "date_added": "13331468894438351",
          "date_last_used": "0",
-         "date_modified": "13331472083985128",
+         "date_modified": "13332066713691463",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
