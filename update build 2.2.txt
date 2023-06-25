@@ -1,0 +1,23 @@
+update build 2.2 
+list update
+
+
+- login succesfull (but the UI is ugly, still rebuilding Ui)
+- get data from web streamlit succesfull
+- change splash screen
+- change icon app's
+- 
+
+list eror
+
+- signup error code 400 
+- profil stilll not update
+- exit still eror
+- http sevices sometime eror
+- paramater not correct
+- post code eror 401
+- login sometime eror 400
+- signup cannot post to API
+
+
+

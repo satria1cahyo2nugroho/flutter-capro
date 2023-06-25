@@ -283,7 +283,7 @@ class _RegisterViewState extends State<RegisterView> {
                         }
                       },
                         child: const Text(
-                          "Login", style: TextStyle(
+                          "SignUp", style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontSize: 18,
                           color: Colors.white,
@@ -294,7 +294,7 @@ class _RegisterViewState extends State<RegisterView> {
                       ),
 
                     ),
-                    SizedBox(height: 20),
+                    const SizedBox(height: 20),
                     Row(
                       
                       children: [

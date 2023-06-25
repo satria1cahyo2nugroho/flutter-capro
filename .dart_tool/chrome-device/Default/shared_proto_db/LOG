@@ -1,6 +1,4 @@
-2023/06/24-15:09:39.600 1374 Reusing MANIFEST C:\Users\satria\AppData\Local\Temp\flutter_tools.b4018788\flutter_tools_chrome_device.4585b9f4\Default\shared_proto_db/MANIFEST-000001
-2023/06/24-15:09:39.601 1374 Recovering log #3
-2023/06/24-15:09:39.602 1374 Reusing old log C:\Users\satria\AppData\Local\Temp\flutter_tools.b4018788\flutter_tools_chrome_device.4585b9f4\Default\shared_proto_db/000003.log 
-2023/06/24-15:09:53.464 1374 Level-0 table #5: started
-2023/06/24-15:09:53.471 1374 Level-0 table #5: 136508 bytes OK
-2023/06/24-15:09:53.474 1374 Delete type=0 #3
+2023/06/25-14:48:40.115 4d54 Reusing MANIFEST C:\Users\satria\AppData\Local\Temp\flutter_tools.642359\flutter_tools_chrome_device.db19e81c\Default\shared_proto_db/MANIFEST-000001
+2023/06/25-14:48:40.116 4d54 Recovering log #4
+2023/06/25-14:48:40.116 4d54 Reusing old log C:\Users\satria\AppData\Local\Temp\flutter_tools.642359\flutter_tools_chrome_device.db19e81c\Default\shared_proto_db/000004.log 
+2023/06/25-14:48:40.117 4d54 Delete type=0 #3
